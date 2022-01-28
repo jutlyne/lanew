@@ -36,7 +36,7 @@
                       Username
                     </th>
                     <th>
-                      Actionsqweqweqweqweqweqweqweqweq
+                      Actions
                     </th>
                   </tr>
                 </thead>
